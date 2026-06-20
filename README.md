@@ -12,7 +12,6 @@
 
 **AI / Computational Neuroscience**
 - [Brian Local Simulation Studio](https://github.com/ookaay/brian-local-simulator) — Web app for Brian2 spiking neural network simulations across numpy, C++ standalone, and CUDA GPU backends.
-- [brian2cuda](https://github.com/brian-team/brian2cuda) — Open source contributor. PR #323 addressing CUDA GPU backend for spiking neural networks.
 
 ---
 
