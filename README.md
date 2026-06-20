@@ -16,4 +16,4 @@
 
 ---
 
-**Portfolio** → [ookaay.github.io/my-portfolio](https://ookaay.github.io/my-portfolio)
+**Portfolio** → [yusufabdulmateen.vercel.app/](https://yusufabdulmateen.vercel.app/)
